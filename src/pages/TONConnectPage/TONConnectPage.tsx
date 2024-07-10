@@ -24,11 +24,11 @@ export const TONConnectPage: FC = () => {
     return (
       <Placeholder
         className='ton-connect-page__placeholder'
-        header='TON Connect'
+        header='Wallet Connect'
         description={
           <>
             <Text>
-              To display the data related to the TON Connect, it is required to connect your wallet
+              OkOkOkOkOkOkOkOkOkOkOkOkOkOkOk GoGoGoGoGoGoGoGoGoGoGoGoGoGoGo
             </Text>
             <TonConnectButton className='ton-connect-page__button'/>
           </>
